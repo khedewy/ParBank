@@ -1,0 +1,12 @@
+[
+  {
+    "name":"moneyPay",
+    "address": "Cairo",
+    "city": "Maragha",
+    "state": "Gazazra",
+    "zip": "1234",
+    "phone": "012087721",
+    "account": "123456",
+    "amount": "600"
+  }
+]
